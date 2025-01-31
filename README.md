@@ -39,6 +39,11 @@ View Detailed Project: https://shorturl.at/1c8wx
 
 ### Images
 ## Home Page
-![S-1](https://github.com/user-attachments/assets/34112d77-fa7e-4a33-89bf-568ecc83a9ea)
+![Output-1 Home Page](https://github.com/user-attachments/assets/1540a612-a168-4df0-99d8-a044ec4bb928)
+
 ## Main Dashboard
-![S-2](https://github.com/user-attachments/assets/f6149757-97c3-4616-aa68-2576d9e3fc4a)
+![Output-2 Main Dashboard](https://github.com/user-attachments/assets/4314f2d9-1659-4dee-9d1a-61a3273abbb0)
+
+
+
+
